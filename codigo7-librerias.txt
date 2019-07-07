@@ -1,0 +1,76 @@
+* los archivos descargados de bootstrap: pegamos las carpetas--> css y js en la capeta del proyecto
+* en index colocamos : 	<link rel="stylesheet" href="css/bootstrap-reboot.min.css">
+
+* usamos el --> bootstrap.mini
+
+descar: https://jquery.com/download/
+
+*creamos una archivo: jquery.js en la carpeta del proyecto
+
+* en sublime pegamos el codigo copiado de la pagina de jquery en el mismo archivo: jquery.js
+ 
+*************************************************************************
+*************************************************************************
+
+
+
+
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<title>Bustrab</title>
+
+  <!-- 1rq libreria  para q funcione  bootstrap-->
+	<link rel="stylesheet" href="css/bootstrap.min.css">
+
+</head>
+<body >
+
+
+<!-- aquí va el codigo q copiamos de la pág. de Bootstrap de alguna practica -->
+
+
+
+<!-- estas son la 2da y 3ra libreria  para q funcione  bootstrap-->
+<script src="jquery-3.4.1.min.js"></script>
+<script src="js/bootstrap.min.js"></script>
+</body>
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="container">
+		<div class="row">
+
+			<div class="col-lg-12 col-md-6 col-xs-12" >
+				<div style="background-color: red; width: 150px; height: 150px">
+	            </div>
+			</div>
+
+			<div class="col-lg-12 col-md-6 col-xs-12" >
+				<div style="background-color: yellow; width: 150px; height: 150px">
+	            </div>
+			</div>
+		</div>
+	</div>
+	
+</div>

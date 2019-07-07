@@ -1,0 +1,50 @@
+/*.lead{
+	margin-top: 10px;
+}*/
+
+.jumbotron h2{
+	text-align: center;
+	color: blue;
+	font-style: italic; /*tipo de letra*/
+}
+
+.jumbotron h1{
+	color: #F03535;
+	font-style: italic;
+	font-weight: bold;  /*negrita*/
+}
+
+.jumbotron p{
+	font-weight: bold;  /*negrita*/
+}
+
+.card-text{
+	text-align: justify;
+}
+
+.container{
+	margin-top: 10px;
+}
+
+.container h3{
+	font-weight: bold;  /*negrita*/
+	color: #F03535;
+}
+
+body{
+	background-image: url(imagen/Hentai/hentai2.jpg);
+    background-attachment: fixed;    /*para q no se mueva la imagen*/
+    background-size: cover;   /*para que la imagen se ajuste*/
+}
+
+.Logo{
+	margin-top: 10px;
+}
+
+.Logo1{
+	margin-top: 25px;
+	margin-bottom: 25px;
+}
+
+
+
